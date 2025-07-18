@@ -3,3 +3,8 @@ AA
 BB
 CC
 DD
+<<<<<<< HEAD
+=======
+EE
+FF
+>>>>>>> test2.0
