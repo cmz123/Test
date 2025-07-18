@@ -1,0 +1,3 @@
+2025-05-22 15:21:18 BR start~, backup is being processed
+2025-05-22 15:21:18 You can execute the [ tail -f /Users/cmz/test/br_backup/20250522/tidb-br-20250522.log ] command to view the progress 
+2025-05-22 15:21:23 BR backup successful completed . 

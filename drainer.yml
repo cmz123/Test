@@ -1,0 +1,5 @@
+config:
+  syncer.db-type: file
+  syncer.replicate-do-table: 
+  db-name ="ccm"
+  tbl-name = "~^tbl_otb_e03401_s0_003_.*"
